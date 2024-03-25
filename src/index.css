@@ -1,0 +1,10 @@
+body {
+   height: 100%;
+   --tw-bg-opacity: 1;
+   background-color: rgb(30 41 59 / var(--tw-bg-opacity));
+   font-family: "Mukta", sans-serif;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+   /* letter-spacing: 0.13rem; */
+}
