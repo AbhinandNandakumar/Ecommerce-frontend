@@ -1,5 +1,17 @@
 # Ecommerce-frontend
-## To install all packages run the following code
+
+https://abhinandnandakumar.github.io/Ecommerce-frontend/
+
+## To run this locally 
+
+### 1.Clone the repository 
+
+### 2.To install all packages
 npm install
-## To start the localhost run
-npm start
+
+### 3.To run on localhost
+npm start 
+
+
+
+
