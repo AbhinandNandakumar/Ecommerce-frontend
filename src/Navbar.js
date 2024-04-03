@@ -27,14 +27,14 @@ const  Navbar = () => {
       <div className=' ml-4 cursor-pointer text-gray-400 text-xl'>FlipZon</div>
       <Search handleSearch={handleSearch} />
       <div className='flex justify-between'>
-         <div><button className=' bg-slate-800 pl-2 pr-2 rounded text-gray-400 ml-3'><Link to='/'>Home</Link>
+         <div><button className=' bg-slate-800 pl-2 pr-2 rounded text-gray-400 ml-3'><Link to='/Ecommerce-frontend'>Home</Link>
             </button></div>
          <div className='ml-10 mr-10'><button className=' bg-slate-800 pl-2 pr-2 rounded text-gray-400'><Link to='/cart'>Cart</Link>
             </button></div>
       </div>
     </div>
     <Routes>
-        <Route path="/" element={<Home handleSearch={handleSearch} products={products} add={add} setAdd={setAdd} />} />
+        <Route path="/Ecommerce-frontend" element={<Home handleSearch={handleSearch} products={products} add={add} setAdd={setAdd} />} />
         <Route path="/cart" element={<Cart add={add} setAdd={setAdd} />} />
       </Routes>
     </Router>
