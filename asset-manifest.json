@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ecommerce-frontend/static/css/main.6fdc75c2.css",
-    "main.js": "/Ecommerce-frontend/static/js/main.b60c5d97.js",
+    "main.js": "/Ecommerce-frontend/static/js/main.74960f5f.js",
     "static/media/shirt.png": "/Ecommerce-frontend/static/media/shirt.a04170f6c153a388af3c.png",
     "static/media/tshirt.png": "/Ecommerce-frontend/static/media/tshirt.28ebfdf53d3548b3bd59.png",
     "static/media/bag.png": "/Ecommerce-frontend/static/media/bag.294613f56f7f75533b62.png",
@@ -11,10 +11,10 @@
     "static/media/pant.png": "/Ecommerce-frontend/static/media/pant.ff301d6acd0887708ae2.png",
     "index.html": "/Ecommerce-frontend/index.html",
     "main.6fdc75c2.css.map": "/Ecommerce-frontend/static/css/main.6fdc75c2.css.map",
-    "main.b60c5d97.js.map": "/Ecommerce-frontend/static/js/main.b60c5d97.js.map"
+    "main.74960f5f.js.map": "/Ecommerce-frontend/static/js/main.74960f5f.js.map"
   },
   "entrypoints": [
     "static/css/main.6fdc75c2.css",
-    "static/js/main.b60c5d97.js"
+    "static/js/main.74960f5f.js"
   ]
 }
