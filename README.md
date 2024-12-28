@@ -1,6 +1,5 @@
 # Ecommerce-frontend
 
-https://abhinandnandakumar.github.io/Ecommerce-frontend/
 
 ## To run this locally 
 
